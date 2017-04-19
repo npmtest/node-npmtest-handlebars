@@ -1,6 +1,6 @@
 # npmtest-handlebars
 
-#### test coverage for  [handlebars (v4.0.6)](http://www.handlebarsjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-handlebars.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-handlebars) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-handlebars.svg)](https://travis-ci.org/npmtest/node-npmtest-handlebars)
+#### basic test coverage for  [handlebars (v4.0.6)](http://www.handlebarsjs.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-handlebars.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-handlebars) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-handlebars.svg)](https://travis-ci.org/npmtest/node-npmtest-handlebars)
 
 #### Handlebars provides the power necessary to let you build semantic templates effectively with no frustration
 
